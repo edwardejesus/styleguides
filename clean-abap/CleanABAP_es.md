@@ -15,7 +15,7 @@
 > [한국어](CleanABAP_kr.md)
 
 
-Esta guía fue adaptada en base a [_Clean Code_ por Robert C. Martin] 
+Esta guía fue adaptada con base a [_Clean Code_ por Robert C. Martin] 
 para [ABAP](https://en.wikipedia.org/wiki/ABAP).
 
 La [Cheat Sheet](cheat-sheet/CheatSheet.md) es una versión optimizada para impresión.
